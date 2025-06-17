@@ -25,7 +25,7 @@
 
 ---
 
-python
+```python
 class AarchiKumari():
     def __init__(self):
         self.name = "Aarchi Kumari"
@@ -38,8 +38,7 @@ class AarchiKumari():
 
     def __str__(self):
         return self.name
-
-
+```
 ---
 
 ## 🚀 Projects & Highlights
