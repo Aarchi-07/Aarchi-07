@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🎓 Second Year Computer Science & Engineering student at Centurion University of Technology, Bhubaneswar<br>
+  🎓 Third Year Computer Science & Engineering student at Centurion University of Technology, Bhubaneswar<br>
   💡 Frontend developer | Project builder | Tech explorer<br>
   📬 Reach me: <a href="mailto:aarchikumari07052@gmail.com">aarchikumari07052@gmail.com</a></p>
 
