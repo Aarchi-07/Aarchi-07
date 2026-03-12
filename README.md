@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Third Year Computer Science & Engineering student at Centurion University of Technology, Bhubaneswar<br>
+  Third Year Computer Science & Engineering student<br>
   Frontend developer | Project builder | Tech explorer<br>
   Reach me: <a href="mailto:aarchikumari07052@gmail.com">aarchikumari07052@gmail.com</a></p>
 
@@ -40,33 +40,38 @@ class AarchiKumari():
         return self.name
 ```
 ---
+## Projects & Highlights
 
-## 🚀 Projects & Highlights
+- *CausewayAI* — **Inter IIT Tech Meet Project**  
+  Backend causal analysis engine combining RAG with knowledge graph traversal for real-time streaming Q&A over call center data.  
+  `#FastAPI` `#Qdrant` `#NetworkX` `#Gemini` `#PyTorch` `#Docker`
 
-- 🧠 [*NostalgiaNet*](https://www.nostalgianet.me/)  
-  A digital time capsule platform to preserve and schedule memories. Built with React, Tailwind CSS, and Firebase.  
-  #UI/UX #Collaboration #Firestore #Animations
+- [*NexusContribute*](https://github.com/Aarchi-07)  
+  AI-powered open source discovery engine using LangGraph and Google GenAI to parse GitHub and match contributors to relevant issues via custom automation pipelines.  
+  `#React` `#LangGraph` `#GoogleGenAI` `#Tailwind`
 
-- 🎬 [*Netflix Clone*](https://aarchi-netflex.vercel.app/auth)  
-  Full-stack streaming platform with authentication, OAuth, and MongoDB backend.  
-  #Next.js #Tailwind #NextAuth #Prisma
+- *ContentCast AI*  
+  Full-stack automation service that converts web content into AI-generated audiobooks with customizable tone, voice, and delivery schedules via Email/Telegram.  
+  `#n8n` `#Node.js` `#React` `#TelegramAPI` `#Supabase`
 
-- 🎵 [*Interactive Music Player*](https://aarchi-07.github.io/CodeAlpha_MusicPlayer/)  
-  Masonry layout, vinyl-style animations, and Web Audio API-powered audio visualizer.  
-  #Vanilla JS #Web Audio API #CSS Magic
+- [*NostalgiaNet*](https://nostalgia-net.vercel.app/)  
+  Full-stack digital time capsule with RBAC, real-time collaborative journals, and scheduled memory retrieval.  
+  `#React` `#TypeScript` `#Firebase` `#Firestore`
 
 ---
 
 ## 🛠 Tech Stack
 
-- *Languages*: JavaScript, TypeScript, SQL, Java, C++
-- *Frameworks*: React, Next.js, Tailwind CSS
-- *Tools*: Git, VS Code, Prisma, MongoDB
+- *Languages*: JavaScript, TypeScript, Python, C++, SQL
+- *Frontend*: React, Next.js, Tailwind CSS, HTML/CSS
+- *Backend*: Node.js, Express.js, FastAPI, RESTful APIs, Prisma
+- *AI/ML*: Google Gemini API, LangGraph, LangChain, Sentence Transformers, PyTorch
+- *Databases*: MongoDB, MySQL, Firebase, Qdrant
+- *Tools*: Git, Docker, n8n, Vercel, GitHub Actions
 - *Certifications*:  
   - 🏆 Udemy – Frontend Web Development Bootcamp  
   - 🏅 Simplilearn – HTML, CSS & JavaScript
 
----
 
 ## 🏆 My GitHub Trophies & Activity
 
@@ -99,16 +104,9 @@ class AarchiKumari():
 
 ### 🎉 Fun Facts
 
-- 🖌 Loves animating things with CSS3.
-- 🔍 Always down to explore new tech and clone interesting apps.
-- 🧩 Likes contributing to communities and college events.
+- 🤝 Passionate about open source, actively contributing to real-world codebases.
+- 🧠 Loves building AI-powered tools that actually solve something.
+- ⚡ Finds clean, minimal code more satisfying than over-engineered solutions.
 
 ---
 
-<p align="center">
-  <i>Last updated on: 17/06/2025</i>
-</p>
-
-<p align="center">
-  Credit: <a href="https://github.com/aarchi-07">aarchi-07</a>
-</p>
