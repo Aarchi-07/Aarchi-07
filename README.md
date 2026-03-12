@@ -42,7 +42,7 @@ class AarchiKumari():
 ---
 ## Projects & Highlights
 
-- *CausewayAI* — **Inter IIT Tech Meet Problem Statement**  
+- *CausewayAI* - **Inter IIT Tech Meet Problem Statement**  
   Backend causal analysis engine combining RAG with knowledge graph traversal for real-time streaming Q&A over call center data.  
   `#FastAPI` `#Qdrant` `#NetworkX` `#Gemini` `#PyTorch` `#Docker`
 
