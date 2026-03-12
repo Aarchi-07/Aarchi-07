@@ -4,7 +4,7 @@
 
 <p align="center">
   Third Year Computer Science & Engineering student<br>
-  Frontend developer | Project builder | Tech explorer<br>
+  Full Stach & Gen-AI developer | Project builder | Tech explorer<br>
   Reach me: <a href="mailto:aarchikumari07052@gmail.com">aarchikumari07052@gmail.com</a></p>
 
 ---
