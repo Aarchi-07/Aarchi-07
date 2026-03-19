@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/-spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
 </p>
 
 ---
@@ -33,11 +33,13 @@ class AarchiKumari():
         self.location = "Bhubaneswar, India"
         self.email = "aarchikumari07052@gmail.com"
         self.university = "Centurion University"
-        self.stack = ["React", "Next.js", "TypeScript", "Tailwind CSS", "MongoDB", "Prisma"]
-        self.hobbies = ["Building cool UIs", "Exploring new web tech", "Listening to music"]
+        self.nlp_stack = ["spaCy", "HuggingFace Transformers", "Sentence Transformers", "RAGAS"]
+        self.dev_stack = ["React", "Next.js", "TypeScript", "Firebase", "Qdrant"]
+        self.hobbies = ["Building NLP pipelines", "Exploring retrieval systems", "Listening to music"]
 
     def __str__(self):
         return self.name
+
 ```
 ---
 ## Projects & Highlights
@@ -60,20 +62,21 @@ class AarchiKumari():
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- *Languages*: JavaScript, TypeScript, Python, C++, SQL
-- *Frontend*: React, Next.js, Tailwind CSS, HTML/CSS
-- *Backend*: Node.js, Express.js, FastAPI, RESTful APIs, Prisma
-- *AI/ML*: Google Gemini API, LangGraph, LangChain, Sentence Transformers, PyTorch
-- *Databases*: MongoDB, MySQL, Firebase, Qdrant
-- *Tools*: Git, Docker, n8n, Vercel, GitHub Actions
-- *Certifications*:  
-  - 🏆 Udemy – Frontend Web Development Bootcamp  
-  - 🏅 Simplilearn – HTML, CSS & JavaScript
+- **Languages**: Python, JavaScript, TypeScript, C++, SQL
+- **NLP / ML**: HuggingFace Transformers, spaCy, Sentence Transformers, zero-shot classification, RAGAS, LangChain, LangGraph
+- **Retrieval / RAG**: Qdrant, GraphRAG, Vector RAG, semantic search, embedding models
+- **Frontend**: React, Next.js, Tailwind CSS, HTML/CSS
+- **Backend**: Node.js, Express.js, FastAPI, Firebase Cloud Functions
+- **Databases**: MongoDB, Firebase Firestore, Qdrant, MySQL
+- **Tools**: Git, Docker, Vercel, GitHub Actions
+- **Certifications**:
+  - Udemy – Frontend Web Development Bootcamp
+  - Simplilearn – HTML, CSS & JavaScript
 
 
-## 🏆 My GitHub Trophies & Activity
+## My GitHub Trophies & Activity
 
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aarchi-07&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -87,7 +90,7 @@ class AarchiKumari():
 </p>
 
 ---
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aarchi-kumari-92905b301/" target="_blank">
