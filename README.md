@@ -60,7 +60,7 @@ class AarchiKumari:
   Open source discovery engine that parses and classifies GitHub issues by language and difficulty, matching contributors to relevant work.
   `#React` `#Tailwind` `#LangGraph` `#GeminiAPI`
 
-- **[Eventshub](https://github.com/Aarchi-07/Eventshub)**
+- **[EventHub](https://github.com/Aarchi-07/EventHub)**
   Full-stack event and booking platform with an Angular frontend, Spring Boot REST backend, and normalised MySQL schema.
   `#Angular` `#SpringBoot` `#MySQL` `#REST`
 
