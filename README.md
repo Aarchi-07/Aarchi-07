@@ -44,10 +44,6 @@ class AarchiKumari():
 ---
 ## Projects & Highlights
 
-- *CausewayAI* - **Inter IIT Tech Meet Problem Statement**  
-  Backend causal analysis engine combining RAG with knowledge graph traversal for real-time streaming Q&A over call center data.  
-  `#FastAPI` `#Qdrant` `#NetworkX` `#Gemini` `#PyTorch` `#Docker`
-
 - [*NexusContribute*](https://github.com/Aarchi-07)  
   AI-powered open source discovery engine using LangGraph and Google GenAI to parse GitHub and match contributors to relevant issues via custom automation pipelines.  
   `#React` `#LangGraph` `#GoogleGenAI` `#Tailwind`
